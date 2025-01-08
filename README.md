@@ -1,7 +1,8 @@
 Hola! 👋 Soy Michael Acuache
 ================================
 
-Soy estudiante de Ingeniería en Sistemas. Cursando el 5to ciclo (UNICA-Perú). Apasionado en el Desarrollo Web
+Soy estudiante de Ingeniería en Sistemas en UNICA-Perú, cursando el 5to ciclo. Apasionado por el desarrollo web, me dedico a expandir mis conocimientos y habilidades en este campo. Disfruto colaborar en proyectos y mantenerme al tanto de las últimas tendencias tecnológicas. Mi objetivo es crecer profesionalmente y aportar soluciones innovadoras en el ámbito tecnológico.
+
 
 ### Skills 
 <p align="left">
