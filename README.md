@@ -1,4 +1,4 @@
-Hi 👋 My name is Michael Acuache
+Hola! 👋 Soy Michael Acuache
 ================================
 
 Soy estudiante de Ingeniería en Sistemas. Cursando el 5to ciclo (UNICA-Perú). Apasionado en el Desarrollo Web
