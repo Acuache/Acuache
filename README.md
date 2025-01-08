@@ -1,4 +1,4 @@
-<img  src="encabezado.png" width="100%px"/>
+<img  align="center" src="encabezado.png" width="90%"/>
 
 ##### Hola! Soy estudiante de Ingeniería en Sistemas. Cursando el 5to ciclo (UNICA-Perú). 
 
