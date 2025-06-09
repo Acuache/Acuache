@@ -1,7 +1,7 @@
 Hola! 👋 Soy Michael Acuache
 ================================
 
-Soy estudiante de Ingeniería en Sistemas en la Universidad Nacional San Luis Gonzaga de Ica-Perú , cursando el 5to ciclo. Apasionado por el desarrollo web, me dedico a expandir mis conocimientos y habilidades en este campo. Disfruto colaborar en proyectos y mantenerme al tanto de las últimas tendencias tecnológicas. Mi objetivo es crecer profesionalmente y aportar soluciones innovadoras en el ámbito tecnológico.
+Soy estudiante de Ingeniería en Sistemas en la Universidad Nacional San Luis Gonzaga de Ica-Perú , cursando el 6to ciclo. Apasionado por el desarrollo web, me dedico a expandir mis conocimientos y habilidades en este campo. Disfruto colaborar en proyectos y mantenerme al tanto de las últimas tendencias tecnológicas. Mi objetivo es crecer profesionalmente y aportar soluciones innovadoras en el ámbito tecnológico.
 
 
 ### Habilidades
